@@ -39,16 +39,8 @@ public class Arthmatic {
             nam.div(nam.a,nam.c);
             
             obj1.close();
-
-
-
-
             
-
-            
-        }
-        
-        
+        }   
     }
     
 

@@ -1,3 +1,4 @@
+package java_lab;
 public class Artmatic {
     public static void main(String[] args) {
 
